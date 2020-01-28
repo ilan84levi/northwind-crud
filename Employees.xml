@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Employees>
+    
+    <Emp>
+        <FirstName>Moishe</FirstName>
+        <LastName>Ufnik</LastName>
+        <Age>12</Age>
+    </Emp>
+
+    <Emp>
+        <FirstName>Kipi</FirstName>
+        <LastName>Ben-Kipod</LastName>
+        <Age>13</Age>
+    </Emp>
+    
+</Employees>
